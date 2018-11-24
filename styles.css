@@ -1,0 +1,28 @@
+body {
+    padding-top: 54px;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
+  .picture {
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  
+  .pagination {
+    margin-bottom: 30px;
+  }
+
+  .aboutMeHeader {
+    margin-left: 20px;
+
+  }
+
+  .aboutMeRowContent{
+    margin-left: 20px;    
+    margin-right: 20px;
+  }
